@@ -1,0 +1,83 @@
+#navbar{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#site{
+    margin-top: 6px;
+    margin-bottom: 0px;
+}
+.object{
+    margin-top: 20px;
+}
+
+/* ****************************************section-1************************************** */
+#slogan{
+    font-size: 3rem;
+    
+}
+#typo{
+    font-size: 1rem;
+
+}
+#vehicles{
+    font-size: 0.9rem;
+
+}
+
+/* ************************************section-2************************************ */
+.images{
+    height: 150px;
+    width: 150px;
+}
+.rent{
+    font-size: 0.6rem;
+    margin: 6px 55px;
+    padding: 1px 5px;
+}
+#gallery{
+    margin: 150px 100px;
+    margin-bottom: 70px;
+    
+    text-align: center;
+    
+
+}
+#line1{
+    color: rgb(172, 172, 172);
+    font-size: 1rem;
+}
+#line2{
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+.name{
+    font-size: 0.8rem;
+}
+.price{
+   font-size: 0.6rem;
+}
+/* ***********************************section-3*********************************** */
+
+i{
+    font-size: 2rem;
+}
+
+/* ***********************************section-4*********************************** */
+.aboutimg{
+    
+    height: 250px;
+    width: 350px;
+    padding: 15px;
+}
+#what{
+    font-size: 0.8rem;
+}
+#who{
+    font-size: 1.5rem;
+
+}
+.content{
+    font-size: 0.6rem;
+}
+
+
